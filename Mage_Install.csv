@@ -13,7 +13,7 @@
 "Check this box only if it is not possible to automatically validate Secure URL, for example if HTTP authentication is required.","Marque esta casilla únicamente si no es posible validar automáticamente la URL segura, por ejemplo, si se requiere autenticación HTTP."
 "Choose this if you would like to test frontend and backend functionality.","Elija esta si desea poner a prueba la funcionalidad del backend y el frontend."
 "Configuration","Configuración"
-"Confirm Password","Confirmar Contraseña"
+"Confirm Password","Repetir contraseña"
 "Connection","Conexión"
 "Continue","Continuar"
 "Continue After Manual Download","Continuar Después de la descarga del Manual"

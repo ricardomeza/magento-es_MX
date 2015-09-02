@@ -115,4 +115,4 @@
 "You cannot delete this tax class as it is used for %d customer groups.","No se puede eliminar esta clase de impuestos, ya que se utiliza para %d grupos de clientes."
 "You cannot delete this tax class as it is used for %d products.","No se puede eliminar esta clase de impuestos, ya que se utiliza para productos %d."
 "You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.","No se puede eliminar esta clase de impuestos ya que se utiliza en la regla fiscal. Primero tienes que eliminar las reglas donde se utilizan. "
-"Zip/Post Code","C.P./Código postal"
+"Zip/Post Code","Código postal"
